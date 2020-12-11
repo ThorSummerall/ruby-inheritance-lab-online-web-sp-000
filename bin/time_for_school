@@ -19,7 +19,6 @@ jim.last_name = "Buscemi"
 
 
 some_knowledge = avi.teach
-jim.learn(some_knowledge)
 
 counter = 0
 while counter <= 0 do
