@@ -23,7 +23,7 @@ jim.learn(some_knowledge)
 
 counter = 0
 while counter <= 0 do
-  counter += 1 
+  counter += 1
   steve.learn(some_knowledge)
 end
 
