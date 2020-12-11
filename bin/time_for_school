@@ -24,6 +24,5 @@ counter = 0
 while counter < 10 do
   counter += 1
   steve.learn(some_knowledge)
+  puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 end
-
-puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
